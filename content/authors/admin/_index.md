@@ -27,7 +27,7 @@ social:
     link: https://www.linkedin.com/in/qgallouedec/
   - icon_pack: fab
     icon: medium
-    url: 'https://medium.gallouedec.com'
+    url: https://medium.gallouedec.com
 organizations:
   - name: École Centrale de Lyon
     url: https://www.ec-lyon.fr/
@@ -49,8 +49,6 @@ highlight_name: true
 title: Quentin Gallouédec
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. student working on Reinforcement Learning at LIRIS/École Centrale de Lyon, supervised by Associate Prof. Emmanuel Dellandréa. I focus on the design of robust reinforcement learning algorithms, especially for highly sparse reward environments. I am currently exploring efficient exploration with the Go-Explore paradigm and curiosity-based methods. My driving force is my fascination for the intertwining of cognitive science and artificial intelligence. Every day I ask myself this very basic question: how do we learn so much without even realizing it?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Feel free to contact me, I would be happy to share with you my work or anything else.
