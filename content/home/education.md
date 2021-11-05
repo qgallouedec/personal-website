@@ -39,7 +39,7 @@ experience:
     company_logo: cpe-lyon
     location: Lyon, France
     date_start: '2019-09-01'
-    date_end: '2020-06-31'
+    date_end: '2020-06-30'
     description: |2-
         Dissertation: Mixed-Precision in Graphics Processing Units
         Supervisor: Prof. Ian O’Connor
