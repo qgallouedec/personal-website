@@ -25,6 +25,9 @@ social:
     icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/qgallouedec/
+  - icon_pack: fab
+    icon: medium
+    url: 'https://medium.gallouedec.com'
 organizations:
   - name: École Centrale de Lyon
     url: https://www.ec-lyon.fr/

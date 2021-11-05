@@ -33,14 +33,16 @@ experience:
         Dissertation: Efficient exploration for reinforcement learning in the context of highly sparse reward environments.
         Supervisor: Associate Prof. Emmanuel Dellandréa
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: M.S. in Electronics, Energy, Electricity and Automation.
+    company: CPE Lyon and Université Claude Bernard Lyon 1
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: cpe-lyon
+    location: Lyon, France
+    date_start: '2019-09-01'
+    date_end: '2020-06-31'
+    description: |2-
+        Dissertation: Mixed-Precision in Graphics Processing Units
+        Supervisor: Prof. Ian O’Connor
 
 design:
   columns: '2'
