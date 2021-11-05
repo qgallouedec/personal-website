@@ -30,15 +30,12 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
 
 categories:
 - Demo
-- 教程
 ---
 
 ## Overview
