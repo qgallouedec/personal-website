@@ -9,7 +9,7 @@ authors:
   - Emmanuel Dellandréa
   - and Liming Chen
 publication: arXiv preprint arXiv:2106.13687
-abstract: ""
+abstract: "This paper presents `panda-gym`, a set of Reinforcement Learning (RL) environments for the Franka Emika Panda robot integrated with OpenAI Gym. Five tasks are included: reach, push, slide, pick \&  place and stack. They all follow a Multi-Goal RL framework, allowing to use goal-oriented RL algorithms. To foster open-research, we chose to use the open-source physics engine PyBullet.  The implementation chosen for this package allows to define very easily new tasks or new robots.  This paper also presents a baseline of results obtained with state-of-the-art model-free off-policy algorithms. `panda-gym` is open-source and freely available at [anonymized link]."
 draft: false
 featured: false
 image:
