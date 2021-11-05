@@ -31,7 +31,17 @@ experience:
     date_end: ''
     description: |2-
         Dissertation: Efficient exploration for reinforcement learning in the context of highly sparse reward environments.
+
         Supervisor: Associate Prof. Emmanuel Dellandréa
+
+  - title: _Diplôme d’Ingénieur_ (M.S. and B.S. in Engineering Sciences)
+    company: École Centrale de Lyon
+    company_url: 'https://ec-lyon.fr'
+    company_logo: ec-lyon
+    location: Lyon, France
+    date_start: '2016-09-01'
+    date_end: '2020-06-30'
+    description: Majoring in Computer Science
         
   - title: M.S. in Electronics, Energy, Electricity and Automation.
     company: CPE Lyon and Université Claude Bernard Lyon 1
@@ -41,8 +51,18 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-06-30'
     description: |2-
-        Dissertation: Mixed-Precision in Graphics Processing Units
+        Dissertation: Mixed-Precision in Graphics Processing Units.
+
         Supervisor: Prof. Ian O’Connor
+
+  - title: _Classe Préparatoire_ (first two years of B.S.)
+    company:  Lycée Clemenceau
+    company_url: ''
+    company_logo: clemenceau
+    location: Nantes, France
+    date_start: '2014-09-01'
+    date_end: '2016-06-30'
+    description: Majoring in Math, Physics, Engineering Sciences
 
 design:
   columns: '2'
