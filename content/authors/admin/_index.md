@@ -20,9 +20,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/qgallouedec
-  - icon: linkedin
+  - display:
+      header: false
     icon_pack: fab
-    link: https://www.linkedin.com/qgallouedec
+    icon: linkedin
+    link: https://www.linkedin.com/in/qgallouedec/
 organizations:
   - name: École Centrale de Lyon
     url: https://www.ec-lyon.fr/
