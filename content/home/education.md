@@ -22,19 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Ph.D. Student
+    company: École Centrale de Lyon
+    company_url: 'https://ec-lyon.fr'
+    company_logo: ec-lyon
+    location: Lyon, France
+    date_start: '2020-11-02'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Dissertation: Efficient exploration for reinforcement learning in the context of highly sparse reward environments.
+        Supervisor: Associate Prof. Emmanuel Dellandréa
         
   - title: Professor of Semiconductor Physics
     company: University X
