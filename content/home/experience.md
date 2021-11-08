@@ -25,6 +25,7 @@ experience:
   - title: Mathematics Interrogator
     company: Lycée Aux Lazaristes
     company_url: 'https://www.auxlazaristes.fr/prepas-cpge/'
+    company_logo: lazaristes
     location: Lyon, France
     date_start: '2019-09-02'
     date_end: '2020-06-30'
