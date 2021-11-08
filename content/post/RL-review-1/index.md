@@ -1,5 +1,5 @@
 ---
-title: Reinforcement Learning review \#1
+title: "Reinforcement Learning review #1"
 subtitle: 
 
 # Summary for listings and search engines

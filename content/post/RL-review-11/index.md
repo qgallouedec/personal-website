@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning review #12"
+title: "Reinforcement Learning review #11"
 subtitle: 
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary:
 projects: []
 
 # Date published
-date: "2021-06-28T00:00:00Z"
+date: "2021-06-08T00:00:00Z"
 
 # Date updated
-lastmod: "2021-06-28T00:00:00Z"
+lastmod: "2021-06-08T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -35,7 +35,7 @@ tags:
   - Reinforcement learning
   - review
 
-external_link: "https://towardsdatascience.com/weekly-review-of-reinforcement-learning-papers-12-9ec3a81720?sk=18228793ad496e86a916a7d890e53634"
+external_link: "https://towardsdatascience.com/weekly-review-of-reinforcement-learning-papers-11-7e1780ddf176?sk=18185b32a63640b45cc486270c267584"
 
 ---
 
