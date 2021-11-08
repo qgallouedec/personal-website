@@ -42,7 +42,7 @@ experience:
     description:  Machine learning and indoor localization/communication system.
         
   - title: Reasearch intern
-    company: Polytechnique Montréal
+    company: Université de Montréal / Polytechnique
     company_url: 'https://www.umontreal.ca'
     company_logo: udem
     location: Montréal, Canada
