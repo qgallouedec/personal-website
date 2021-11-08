@@ -40,6 +40,20 @@ tags:
 
 categories:
 - Project
+
+gallery_item:
+- album: panda-gym-v0
+  image: push.jpg
+  caption: Push
+- album: panda-gym-v0
+  image: pickandplace.jpg
+  caption: Pick and place
+- album: panda-gym-v0
+  image: reach.jpg
+  caption: Reach
+- album: panda-gym-v0
+  image: slide.jpg
+  caption: Slide
 ---
 
 **Some information contained in this article is not up to date. For up-to-date information, see the technical report available on arXiv.**
@@ -73,7 +87,7 @@ The action space has four coordinates. The first three are the cartesian target 
 
 ## Installation and usage
 
-Using `pip` you can install `panda-gym`by running
+Using `pip` you can install `panda-gym` by running
 
 ```bash
 pip install panda-gym
