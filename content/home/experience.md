@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 subtitle:
@@ -22,47 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Ph.D. Student
-    company: École Centrale de Lyon
-    company_url: 'https://ec-lyon.fr'
-    company_logo: ec-lyon
+  - title: Mathematics Interrogator
+    company: Lycée Aux Lazaristes
+    company_url: 'https://www.auxlazaristes.fr/prepas-cpge/'
+    company_logo: lazaristes
     location: Lyon, France
-    date_start: '2020-11-02'
+    date_start: '2019-09-02'
+    date_end: '2020-06-30'
     date_end: ''
     description: |2-
-        Dissertation: Efficient exploration for reinforcement learning in the context of highly sparse reward environments.
+        For students in _classe préparatoire_ (equivalent to the first two years of B.S.), preparing for the entrance exams to the most prestigious French universities.
 
-        Supervisor: Associate Prof. Emmanuel Dellandréa
-
-  - title: _Diplôme d’Ingénieur_ (M.S. and B.S. in Engineering Sciences)
-    company: École Centrale de Lyon
-    company_url: 'https://ec-lyon.fr'
-    company_logo: ec-lyon
-    location: Lyon, France
-    date_start: '2016-09-01'
-    date_end: '2020-06-30'
-    description: Majoring in Computer Science
+  - title: Research and Development Officer, Paris Fire Brigade
+    company: Paris Fire Brigade
+    company_url: 'https://pompiersparis.fr'
+    company_logo: bspp
+    location: Paris, France
+    date_start: '2018-08-16'
+    date_end: '2019-08-15'
+    description:  Machine learning and indoor localization/communication system.
         
-  - title: M.S. in Electronics, Energy, Electricity and Automation.
-    company: CPE Lyon and Université Claude Bernard Lyon 1
-    company_url: ''
-    company_logo: cpe-lyon
-    location: Lyon, France
-    date_start: '2019-09-01'
-    date_end: '2020-06-30'
-    description: |2-
-        Dissertation: Mixed-Precision in Graphics Processing Units.
+  - title: Reasearch intern
+    company: Polytechnique Montréal
+    company_url: 'https://www.umontreal.ca'
+    company_logo: udem
+    location: Montréal, Canada
+    date_start: '2018-05-01'
+    date_end: '2018-08-15'
+    description:
 
-        Supervisor: Prof. Ian O’Connor
-
-  - title: _Classe Préparatoire_ (first two years of B.S.)
-    company:  Lycée Clemenceau
-    company_url: ''
-    company_logo: clemenceau
-    location: Nantes, France
-    date_start: '2014-09-01'
-    date_end: '2016-06-30'
-    description: Majoring in Math, Physics, Engineering Sciences
 
 design:
   columns: '2'
