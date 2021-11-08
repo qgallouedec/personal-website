@@ -65,9 +65,9 @@ experience:
     date_start: '2014-09-01'
     date_end: '2016-06-30'
     description: |2-
-          Equivalent of the first two years of B.S.
-    
-          Majoring in Math, Physics, Engineering Sciences
+        Equivalent of the first two years of B.S.
+
+        Majoring in Math, Physics, Engineering Sciences
 
 design:
   columns: '2'
