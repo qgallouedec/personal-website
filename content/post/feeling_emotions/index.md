@@ -71,7 +71,6 @@ To capture the temoral and special dimensions, we chose a rather classical archi
 
 ![Neural network structure](emotion_structure.png "Neural network structure")
 
-
 {{< chart data="chart" >}}
 
 I have presented you with one of the three approaches that have been explored. None of these three approaches has yielded good results. To put it simply, the three models are roughly equivalent to a model that systematically output the average emotion out of the dataset.
