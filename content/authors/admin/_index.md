@@ -35,15 +35,18 @@ organizations:
     url: https://liris.cnrs.fr
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Reinforcement Learning
+      institution: École Centrale de Lyon, France
+      year: 2020 -
+    - course: _Diplôme d’Ingénieur_ (M.S. and B.S. in Engineering Sciences)
+      institution: École Centrale de Lyon, France
+      year: 2016 - 2020 
+    - course: M.S. in Electronics, Energy, Electricity and Automation.
+      institution: CPE Lyon and Université Claude Bernard Lyon 1, France
+      year: 2019 - 2020
+    - course: _Classe Préparatoire_ (first two years of B.S.)
+      institution: Lycée Clemenceau, Nantes, France
+      year: 2014 - 2016
 superuser: true
 highlight_name: true
 title: Quentin Gallouédec
