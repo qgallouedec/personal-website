@@ -34,7 +34,7 @@ experience:
 
         Supervisor: Associate Prof. Emmanuel Dellandréa
 
-  - title: _Diplôme d’Ingénieur_ (M.S. and B.S. in Engineering Sciences)
+  - title: _Diplôme d’Ingénieur_ (B.S. and M.S.)
     company: École Centrale de Lyon
     company_url: 'https://ec-lyon.fr'
     company_logo: ec-lyon
@@ -43,7 +43,7 @@ experience:
     date_end: '2020-06-30'
     description: Majoring in Computer Science
         
-  - title: M.S. in Electronics, Energy, Electricity and Automation.
+  - title: M.S. (Double Degree) in Electronics
     company: CPE Lyon and Université Claude Bernard Lyon 1
     company_url: ''
     company_logo: cpe-lyon
@@ -51,18 +51,23 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-06-30'
     description: |2-
+        Majoring in Energy, Electricity and Automation, embedded systems.
+
         Dissertation: Mixed-Precision in Graphics Processing Units.
 
         Supervisor: Prof. Ian O’Connor
 
-  - title: _Classe Préparatoire_ (first two years of B.S.)
+  - title: _Classe Préparatoire_ (B.S.)
     company:  Lycée Clemenceau
     company_url: ''
     company_logo: clemenceau
     location: Nantes, France
     date_start: '2014-09-01'
     date_end: '2016-06-30'
-    description: Majoring in Math, Physics, Engineering Sciences
+    description: |2-
+          Equivalent of the first two years of B.S.
+    
+          Majoring in Math, Physics, Engineering Sciences
 
 design:
   columns: '2'

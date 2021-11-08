@@ -30,16 +30,16 @@ experience:
     date_end: '2020-06-30'
     date_end: ''
     description: |2-
-        For students in _classe préparatoire_ (equivalent to the first two years of B.S.), preparing for the entrance exams to the most prestigious French universities.
+        For students in _classe préparatoire_ (first two years of B.S.), preparing for the entrance exams to the most prestigious French universities.
 
-  - title: Research and Development Officer, Paris Fire Brigade
+  - title: Research and Development Officer
     company: Paris Fire Brigade
     company_url: 'https://pompiersparis.fr'
     company_logo: bspp
     location: Paris, France
     date_start: '2018-08-16'
     date_end: '2019-08-15'
-    description:  Machine learning and indoor localization/communication system.
+    description: Machine learning and indoor localization/communication system.
         
   - title: Reasearch intern
     company: Université de Montréal / Polytechnique
