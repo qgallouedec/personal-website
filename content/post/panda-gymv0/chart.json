@@ -7,7 +7,7 @@
                 "color": "rgba(255, 255, 255, 0)"
             },
             "mode": "lines",
-            "name": "Train loss",
+            "name": "Fetch robot (MuJoCo)",
             "showlegend": false,
             "type": "scatter",
             "x": [
@@ -340,7 +340,7 @@
                 "color": "rgb(200, 30, 30)"
             },
             "mode": "lines",
-            "name": "Train loss",
+            "name": "Fetch robot (MuJoCo)",
             "type": "scatter",
             "x": [
                 0,
@@ -514,7 +514,7 @@
                 "color": "rgba(255, 255, 255, 0)"
             },
             "mode": "lines",
-            "name": "Test loss",
+            "name": "Panda robot (bullet)",
             "showlegend": false,
             "type": "scatter",
             "x": [
@@ -847,7 +847,7 @@
                 "color": "rgb(30, 200, 30)"
             },
             "mode": "lines",
-            "name": "Test loss",
+            "name": "Panda robot (bullet)",
             "type": "scatter",
             "x": [
                 0,
