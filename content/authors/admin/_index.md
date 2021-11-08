@@ -1,7 +1,7 @@
 ---
 role: Ph.D. Student in Reinforcement Learning
 avatar_filename: profile.jpg
-bio: My research interests include ...
+bio: I mainly focus on the design of robust reinforcement learning algorithms, especially for highly sparse reward environments.
 interests:
   - Artificial Intelligence
   - Reinforcement Learning
