@@ -17,4 +17,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-11-05T10:59:21.844Z
+links:
+- name: Preprint
+  url: 'https://arxiv.org/abs/2106.13687'
 ---
