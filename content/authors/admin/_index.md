@@ -38,6 +38,6 @@ highlight_name: true
 title: Quentin Gallouédec
 ---
 
-I am a Ph.D. student working on Reinforcement Learning at LIRIS/École Centrale de Lyon, supervised by Associate Prof. Emmanuel Dellandréa. I focus on the design of robust reinforcement learning algorithms, especially for highly sparse reward environments. I am currently exploring efficient exploration with the Go-Explore paradigm and curiosity-based methods. My driving force is my fascination for the intertwining of cognitive science and artificial intelligence. Every day I ask myself this very basic question: how do we learn so much without even realizing it?
+I am a Ph.D. student working on Reinforcement Learning at LIRIS/École Centrale de Lyon, supervised by [Associate Prof. Emmanuel Dellandréa](http://perso.ec-lyon.fr/emmanuel.dellandrea/index.php). I focus on the design of robust reinforcement learning algorithms, especially for highly sparse reward environments. I am currently exploring efficient exploration with the Go-Explore paradigm and curiosity-based methods. My driving force is my fascination for the intertwining of cognitive science and artificial intelligence. Every day I ask myself this very basic question: how do we learn so much without even realizing it?
 
 Feel free to contact me, I would be happy to share with you my work or anything else.
