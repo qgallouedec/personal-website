@@ -1,6 +1,5 @@
 ---
-title: Multi-Goal Reinforcement Learning environments for simulated Franka Emika
-  Panda robot.
+title: panda-gym: Open-source goal-conditioned environments for robotic learning
 publication_types:
   - "3"
 authors:
@@ -9,7 +8,7 @@ authors:
   - Emmanuel Dellandréa
   - and Liming Chen
 publication: arXiv preprint arXiv:2106.13687
-abstract: "This paper presents `panda-gym`, a set of Reinforcement Learning (RL) environments for the Franka Emika Panda robot integrated with OpenAI Gym. Five tasks are included: reach, push, slide, pick &  place and stack. They all follow a Multi-Goal RL framework, allowing to use goal-oriented RL algorithms. To foster open-research, we chose to use the open-source physics engine PyBullet.  The implementation chosen for this package allows to define very easily new tasks or new robots.  This paper also presents a baseline of results obtained with state-of-the-art model-free off-policy algorithms. `panda-gym` is open-source and freely available at [github.com/qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)."
+abstract: "This paper presents `panda-gym`, a set of Reinforcement Learning (RL) environments for the Franka Emika Panda robot integrated with OpenAI Gym. Five tasks are included: reach, push, slide, pick & place and stack. They all follow a Multi-Goal RL framework, allowing to use goal-oriented RL algorithms. To foster open-research, we chose to use the open-source physics engine PyBullet. The implementation chosen for this package allows to define very easily new tasks or new robots. This paper also presents a baseline of results obtained with state-of-the-art model-free off-policy algorithms. `panda-gym` is open-source and freely available at [github.com/qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)."
 draft: false
 featured: false
 image:
@@ -20,4 +19,6 @@ date: 2021-11-05T10:59:21.844Z
 links:
 - name: Preprint
   url: 'https://arxiv.org/abs/2106.13687'
+- name: Talk
+  url: 'https://www.youtube.com/watch?v=BgvpoSP45hA'
 ---
