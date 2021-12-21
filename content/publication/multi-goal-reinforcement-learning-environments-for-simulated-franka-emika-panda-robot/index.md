@@ -1,5 +1,5 @@
 ---
-title: panda-gym: Open-source goal-conditioned environments for robotic learning
+title: "panda-gym: Open-source goal-conditioned environments for robotic learning"
 publication_types:
   - "3"
 authors:
