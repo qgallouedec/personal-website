@@ -38,7 +38,7 @@ tags:
   - Graph
 
 
-external_link: "https://medium.gallouedec.com/create-a-beautiful-graph-with-manim-4056d33a989a?sk=1bc2a94021c980c8967a46d040ee6f13"
+external_link: "https://qgallouedec.medium.com/create-a-beautiful-graph-with-manim-4056d33a989a?sk=1bc2a94021c980c8967a46d040ee6f13"
 
 ---
 

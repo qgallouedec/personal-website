@@ -35,7 +35,7 @@ tags:
   - Reinforcement learning
   - review
 
-external_link: "https://medium.gallouedec.com/weekly-review-of-reinforcement-learning-papers-0-facb2274ce08"
+external_link: "https://qgallouedec.medium.com/weekly-review-of-reinforcement-learning-papers-0-facb2274ce08"
 
 ---
 
