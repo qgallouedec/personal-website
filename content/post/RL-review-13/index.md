@@ -35,7 +35,7 @@ tags:
   - Reinforcement learning
   - review
 
-external_link: "[_current_episode_uid](https://towardsdatascience.com/review-of-reinforcement-learning-papers-13-24ed69a8fdc2?sk=7b943268ec3a5256ff4cc0f7b48aa81f)"
+external_link: "https://towardsdatascience.com/review-of-reinforcement-learning-papers-13-24ed69a8fdc2?sk=7b943268ec3a5256ff4cc0f7b48aa81f"
 
 ---
 
