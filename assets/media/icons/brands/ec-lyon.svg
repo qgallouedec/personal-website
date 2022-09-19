@@ -1,13 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="11.04mm" height="11.04mm" viewBox="0 0 31.28 31.28">
+
   <style>
-    path {
-      fill: blue;
+    :root {
+      --color: red;
     }
 
-    @media (prefers-color-scheme:dark) {
-      path {
-        fill: red;
+    @media (prefers-color-scheme: light) {
+      :root {
+        --color: blue;
       }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --color: yellow;
+      }
+    }
+
+    path {
+      fill: var(--color);
     }
   </style>
 
