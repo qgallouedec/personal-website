@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Ph.D. Student
     company: École Centrale de Lyon
-    company_url: 'https://ec-lyon.fr'
+    company_url: 'https://www.ec-lyon.fr'
     company_logo: ec-lyon
     location: Lyon, France
     date_start: '2020-11-02'
@@ -36,7 +36,7 @@ experience:
 
   - title: _Diplôme d’Ingénieur_ (B.S. and M.S.)
     company: École Centrale de Lyon
-    company_url: 'https://ec-lyon.fr'
+    company_url: 'https://www.ec-lyon.fr'
     company_logo: ec-lyon
     location: Lyon, France
     date_start: '2016-09-01'
