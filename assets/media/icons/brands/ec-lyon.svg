@@ -4,8 +4,10 @@
       fill: black;
     }
 
-    body.dark-theme path {
-      fill: white;
+    @media (prefers-color-scheme: dark) {
+      path {
+        fill: white;
+      }
     }
   </style>
   <path
