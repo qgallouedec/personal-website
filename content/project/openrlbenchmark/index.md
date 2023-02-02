@@ -39,12 +39,15 @@ external_link: ""
 
 ---
 
+## Description
 
+OpenRLBenchmark is a collaborative project aimed at advancing the field of reinforcement learning. It provides a comprehensive benchmark suite that covers a wide range of tasks, domains, and difficulties, enabling researchers and practitioners to fairly compare algorithms. The project utilizes the tracking tool Weights & Biases to provide a centralized location for storing and visualizing experiment data, making it easier for users to access and analyze results.
 
+The project invites researchers, practitioners, and enthusiasts to contribute their algorithms, results, and insights, creating a unique opportunity for collaboration and the exchange of information. It serves as a valuable tool for advancing the field of reinforcement learning and facilitating the reproducibility of results.
 
+OpenRLBenchmark offers a platform for the advancement of the field of reinforcement learning, where individuals can contribute their experiments and access experiments from others.
 
+## Useful links
 
-
-
-
-
+- 📈 [Weights & Biases experiements tracking](https://wandb.ai/openrlbenchmark/sb3)
+- 🧨 [SB3 benchmarking progress](https://github.com/openrlbenchmark/openrlbenchmark/issues/7)
