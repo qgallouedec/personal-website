@@ -1,7 +1,15 @@
-@misc{gallouedec2022cell,
-  title        = {{Cell-Free Latent Go-Explore}},
-  author       = {Gallou{\'e}dec, Quentin and Dellandr{\'e}a, Emmanuel},
-  year         = 2022,
-  archiveprefix = {arXiv},
-  eprint       = {2208.14928}
+@InProceedings{pmlr-v202-gallouedec23a,
+  title = 	 {Cell-Free Latent Go-Explore},
+  author =       {Gallou\'{e}dec, Quentin and Dellandrea, Emmanuel},
+  booktitle = 	 {Proceedings of the 40th International Conference on Machine Learning},
+  pages = 	 {10571--10586},
+  year = 	 {2023},
+  editor = 	 {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+  volume = 	 {202},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {23--29 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v202/gallouedec23a/gallouedec23a.pdf},
+  url = 	 {https://proceedings.mlr.press/v202/gallouedec23a.html},
+  abstract = 	 {In this paper, we introduce Latent Go-Explore (LGE), a simple and general approach based on the Go-Explore paradigm for exploration in reinforcement learning (RL). Go-Explore was initially introduced with a strong domain knowledge constraint for partitioning the state space into cells. However, in most real-world scenarios, drawing domain knowledge from raw observations is complex and tedious. If the cell partitioning is not informative enough, Go-Explore can completely fail to explore the environment. We argue that the Go-Explore approach can be generalized to any environment without domain knowledge and without cells by exploiting a learned latent representation. Thus, we show that LGE can be flexibly combined with any strategy for learning a latent representation. Our results indicate that LGE, although simpler than Go-Explore, is more robust and outperforms state-of-the-art algorithms in terms of pure exploration on multiple hard-exploration environments including Montezuma’s Revenge. The LGE implementation is available as open-source at https://github.com/qgallouedec/lge.}
 }
