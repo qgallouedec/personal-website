@@ -19,5 +19,6 @@ links:
   url: 'https://proceedings.mlr.press/v202/gallouedec23a.html'
 - name: Code
   url: 'https://github.com/qgallouedec/lge'
-
+- name: Poster
+  url: uploads/lge_poster.pdf
 ---
