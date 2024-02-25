@@ -14,9 +14,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/QGallouedec
-  - icon: huggingface
-    icon_pack: custom
-    link: https://huggingface.co/qgallouedec
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=MDIW57UAAAAJ&hl
