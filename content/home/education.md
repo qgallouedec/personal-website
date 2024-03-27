@@ -22,15 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Ph.D. Student
+  - title: Ph.D.
     company: École Centrale de Lyon
     company_url: 'https://www.ec-lyon.fr'
     company_logo: ec-lyon
     location: Lyon, France
     date_start: '2020-11-02'
-    date_end: ''
+    date_end: '2020-03-26'
     description: |2-
-        Dissertation: Efficient exploration for reinforcement learning in the context of highly sparse reward environments.
+        Dissertation: Toward the Generalization of Reinforcement Learning.
 
         Supervisor: Associate Prof. Emmanuel Dellandréa
 
