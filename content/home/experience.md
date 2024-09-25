@@ -22,6 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: _Research Engineer_ (B.S. and M.S.)
+    company: Hugging Face
+    company_url: 'https://huggingface.co'
+    company_logo: huggingface
+    location: Lyon, France
+    date_start: '2024-03-04'
+
   - title: Mathematics Interrogator
     company: Lycée Aux Lazaristes
     company_url: 'https://www.auxlazaristes.fr/prepas-cpge/'

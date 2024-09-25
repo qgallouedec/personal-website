@@ -28,7 +28,7 @@ experience:
     company_logo: ec-lyon
     location: Lyon, France
     date_start: '2020-11-02'
-    date_end: '2020-03-26'
+    date_end: '2024-03-26'
     description: |2-
         Dissertation: Toward the Generalization of Reinforcement Learning.
 
